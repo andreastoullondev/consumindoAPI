@@ -1,1 +1,3 @@
-//Retorna em breve 
+import express from "express";
+
+const app = express();
